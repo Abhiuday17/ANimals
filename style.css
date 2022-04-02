@@ -1,0 +1,42 @@
+p{
+    font-size: 15px;
+    color :black;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.header{
+    color: blue;
+    font-family:'Comic Neue', cursive;
+}
+
+.main_div{
+    margin-top: 20px;
+    background-color: rgba(204, 0, 204, 0.521)
+}
+body{
+    font-family:'Comic Neue', cursive;
+    
+}
+
+#start{
+    background-color: purple !important;
+    color : white;
+    letter-spacing: 3px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.copy-right-footer{
+    position: fixed;
+    bottom: 0;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    color: purple;
+    line-height: 3;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px grey;
+}
+
+
